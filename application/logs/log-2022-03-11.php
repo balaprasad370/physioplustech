@@ -1,0 +1,5201 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2022-03-11 00:05:00 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 00:14:18 --> 404 Page Not Found --> .env
+ERROR - 2022-03-11 01:03:42 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 01:06:06 --> 404 Page Not Found --> .env
+ERROR - 2022-03-11 01:20:43 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 01:29:39 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 01:40:57 --> 404 Page Not Found --> .env
+ERROR - 2022-03-11 01:57:55 --> Severity: Warning  --> include_once(analyticstracking.php): failed to open stream: No such file or directory /usr/share/nginx/html/application/views/billing.php 39
+ERROR - 2022-03-11 01:57:55 --> Severity: Warning  --> include_once(): Failed opening 'analyticstracking.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') /usr/share/nginx/html/application/views/billing.php 39
+ERROR - 2022-03-11 02:02:03 --> 404 Page Not Found --> dotphysio
+ERROR - 2022-03-11 02:10:01 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 02:51:03 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 02:51:06 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/controllers/plugin/dashboard.php 16
+ERROR - 2022-03-11 02:51:06 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 190
+ERROR - 2022-03-11 02:51:06 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 195
+ERROR - 2022-03-11 02:51:06 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 196
+ERROR - 2022-03-11 02:51:06 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 200
+ERROR - 2022-03-11 02:51:06 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 201
+ERROR - 2022-03-11 02:51:06 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 202
+ERROR - 2022-03-11 02:51:06 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 248
+ERROR - 2022-03-11 02:51:06 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 250
+ERROR - 2022-03-11 02:51:06 --> Severity: Notice  --> Undefined variable: staff_details /usr/share/nginx/html/application/views/plugin/appointment.php 269
+ERROR - 2022-03-11 02:51:06 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 798
+ERROR - 2022-03-11 02:51:06 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 798
+ERROR - 2022-03-11 02:51:06 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 801
+ERROR - 2022-03-11 02:51:06 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 802
+ERROR - 2022-03-11 02:51:06 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 803
+ERROR - 2022-03-11 02:51:06 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 804
+ERROR - 2022-03-11 02:57:39 --> 404 Page Not Found --> .well-known
+ERROR - 2022-03-11 03:03:39 --> Severity: Warning  --> include_once(analyticstracking.php): failed to open stream: No such file or directory /usr/share/nginx/html/application/views/frontend/registration_add1.php 35
+ERROR - 2022-03-11 03:03:39 --> Severity: Warning  --> include_once(): Failed opening 'analyticstracking.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') /usr/share/nginx/html/application/views/frontend/registration_add1.php 35
+ERROR - 2022-03-11 03:03:39 --> Severity: Notice  --> Undefined variable: var /usr/share/nginx/html/application/views/frontend/registration_add1.php 341
+ERROR - 2022-03-11 03:09:52 --> 404 Page Not Found --> .env
+ERROR - 2022-03-11 03:50:10 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 03:51:14 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 03:55:50 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 04:03:39 --> Severity: Warning  --> include_once(analyticstracking.php): failed to open stream: No such file or directory /usr/share/nginx/html/application/views/terms.php 40
+ERROR - 2022-03-11 04:03:39 --> Severity: Warning  --> include_once(): Failed opening 'analyticstracking.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') /usr/share/nginx/html/application/views/terms.php 40
+ERROR - 2022-03-11 04:05:31 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 04:10:55 --> Severity: Warning  --> include_once(analyticstracking.php): failed to open stream: No such file or directory /usr/share/nginx/html/application/views/frontend/registration_add1.php 35
+ERROR - 2022-03-11 04:10:55 --> Severity: Warning  --> include_once(): Failed opening 'analyticstracking.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') /usr/share/nginx/html/application/views/frontend/registration_add1.php 35
+ERROR - 2022-03-11 04:10:55 --> Severity: Notice  --> Undefined variable: var /usr/share/nginx/html/application/views/frontend/registration_add1.php 341
+ERROR - 2022-03-11 04:10:57 --> 404 Page Not Found --> registration/index
+ERROR - 2022-03-11 04:12:16 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 04:12:43 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 04:12:47 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 04:13:21 --> 404 Page Not Found --> ecp
+ERROR - 2022-03-11 04:13:22 --> 404 Page Not Found --> owa
+ERROR - 2022-03-11 04:26:13 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 04:26:22 --> 404 Page Not Found --> schedule/getcancelappointments
+ERROR - 2022-03-11 04:26:22 --> 404 Page Not Found --> schedule/getcancelappointments
+ERROR - 2022-03-11 04:26:56 --> Severity: Notice  --> Trying to get property of non-object /usr/share/nginx/html/application/controllers/client/reports.php 511
+ERROR - 2022-03-11 04:26:56 --> Severity: Notice  --> Trying to get property of non-object /usr/share/nginx/html/application/controllers/client/reports.php 511
+ERROR - 2022-03-11 04:26:56 --> Severity: Notice  --> Trying to get property of non-object /usr/share/nginx/html/application/controllers/client/reports.php 512
+ERROR - 2022-03-11 04:26:56 --> Severity: Notice  --> Trying to get property of non-object /usr/share/nginx/html/application/controllers/client/reports.php 513
+ERROR - 2022-03-11 04:26:56 --> Severity: Notice  --> Trying to get property of non-object /usr/share/nginx/html/application/controllers/client/reports.php 514
+ERROR - 2022-03-11 04:26:56 --> Severity: Notice  --> Trying to get property of non-object /usr/share/nginx/html/application/controllers/client/reports.php 515
+ERROR - 2022-03-11 04:28:00 --> 404 Page Not Found --> schedule/getcancelappointments
+ERROR - 2022-03-11 04:28:00 --> 404 Page Not Found --> schedule/getcancelappointments
+ERROR - 2022-03-11 04:28:28 --> Severity: Notice  --> Trying to get property of non-object /usr/share/nginx/html/application/views/client/report1.php 136
+ERROR - 2022-03-11 04:28:28 --> Severity: Notice  --> Trying to get property of non-object /usr/share/nginx/html/application/views/client/report1.php 136
+ERROR - 2022-03-11 04:29:17 --> 404 Page Not Found --> schedule/getcancelappointments
+ERROR - 2022-03-11 04:29:17 --> 404 Page Not Found --> schedule/getcancelappointments
+ERROR - 2022-03-11 04:29:21 --> 404 Page Not Found --> schedule/getcancelappointments
+ERROR - 2022-03-11 04:29:21 --> 404 Page Not Found --> schedule/getcancelappointments
+ERROR - 2022-03-11 04:33:39 --> Severity: Warning  --> include_once(analyticstracking.php): failed to open stream: No such file or directory /usr/share/nginx/html/application/views/practice_management.php 40
+ERROR - 2022-03-11 04:33:39 --> Severity: Warning  --> include_once(): Failed opening 'analyticstracking.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') /usr/share/nginx/html/application/views/practice_management.php 40
+ERROR - 2022-03-11 04:34:39 --> 404 Page Not Found --> schedule/getcancelappointments
+ERROR - 2022-03-11 04:34:40 --> 404 Page Not Found --> schedule/getcancelappointments
+ERROR - 2022-03-11 04:46:31 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 04:46:36 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/models/patient_model.php 5439
+ERROR - 2022-03-11 04:46:41 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 04:46:41 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 04:48:17 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 04:48:29 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 04:49:53 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 04:50:06 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 05:02:03 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/controllers/plugin/dashboard.php 16
+ERROR - 2022-03-11 05:02:03 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 190
+ERROR - 2022-03-11 05:02:03 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 195
+ERROR - 2022-03-11 05:02:03 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 196
+ERROR - 2022-03-11 05:02:03 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 200
+ERROR - 2022-03-11 05:02:03 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 201
+ERROR - 2022-03-11 05:02:03 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 202
+ERROR - 2022-03-11 05:02:03 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 248
+ERROR - 2022-03-11 05:02:03 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 250
+ERROR - 2022-03-11 05:02:03 --> Severity: Notice  --> Undefined variable: staff_details /usr/share/nginx/html/application/views/plugin/appointment.php 269
+ERROR - 2022-03-11 05:02:03 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 798
+ERROR - 2022-03-11 05:02:03 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 798
+ERROR - 2022-03-11 05:02:03 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 801
+ERROR - 2022-03-11 05:02:03 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 802
+ERROR - 2022-03-11 05:02:03 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 803
+ERROR - 2022-03-11 05:02:03 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 804
+ERROR - 2022-03-11 05:09:39 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 05:09:39 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/controllers/plugin/dashboard.php 16
+ERROR - 2022-03-11 05:09:39 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 190
+ERROR - 2022-03-11 05:09:39 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 195
+ERROR - 2022-03-11 05:09:39 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 196
+ERROR - 2022-03-11 05:09:39 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 200
+ERROR - 2022-03-11 05:09:39 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 201
+ERROR - 2022-03-11 05:09:39 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 202
+ERROR - 2022-03-11 05:09:39 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 248
+ERROR - 2022-03-11 05:09:39 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 250
+ERROR - 2022-03-11 05:09:39 --> Severity: Notice  --> Undefined variable: staff_details /usr/share/nginx/html/application/views/plugin/appointment.php 269
+ERROR - 2022-03-11 05:09:39 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 798
+ERROR - 2022-03-11 05:09:39 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 798
+ERROR - 2022-03-11 05:09:39 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 801
+ERROR - 2022-03-11 05:09:39 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 802
+ERROR - 2022-03-11 05:09:39 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 803
+ERROR - 2022-03-11 05:09:39 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 804
+ERROR - 2022-03-11 05:13:54 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 05:18:12 --> 404 Page Not Found --> schedule/getcancelappointments
+ERROR - 2022-03-11 05:18:12 --> 404 Page Not Found --> schedule/getcancelappointments
+ERROR - 2022-03-11 05:20:03 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 05:22:01 --> 404 Page Not Found --> schedule/getcancelappointments
+ERROR - 2022-03-11 05:22:01 --> 404 Page Not Found --> schedule/getcancelappointments
+ERROR - 2022-03-11 05:27:46 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 05:27:46 --> 404 Page Not Found --> .well-known
+ERROR - 2022-03-11 05:31:15 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 05:33:36 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-11 05:42:30 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 05:42:33 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:35 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:45:48 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:00 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 05:46:51 --> 404 Page Not Found --> schedule/getcancelappointments
+ERROR - 2022-03-11 05:46:51 --> 404 Page Not Found --> schedule/getcancelappointments
+ERROR - 2022-03-11 05:52:05 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/controllers/plugin/dashboard.php 16
+ERROR - 2022-03-11 05:52:05 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 190
+ERROR - 2022-03-11 05:52:05 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 195
+ERROR - 2022-03-11 05:52:05 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 196
+ERROR - 2022-03-11 05:52:05 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 200
+ERROR - 2022-03-11 05:52:05 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 201
+ERROR - 2022-03-11 05:52:05 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 202
+ERROR - 2022-03-11 05:52:05 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 248
+ERROR - 2022-03-11 05:52:05 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 250
+ERROR - 2022-03-11 05:52:05 --> Severity: Notice  --> Undefined variable: staff_details /usr/share/nginx/html/application/views/plugin/appointment.php 269
+ERROR - 2022-03-11 05:52:05 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 798
+ERROR - 2022-03-11 05:52:05 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 798
+ERROR - 2022-03-11 05:52:05 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 801
+ERROR - 2022-03-11 05:52:05 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 802
+ERROR - 2022-03-11 05:52:05 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 803
+ERROR - 2022-03-11 05:52:05 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 804
+ERROR - 2022-03-11 05:59:14 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 05:59:37 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 05:59:50 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/models/patient_model.php 5439
+ERROR - 2022-03-11 05:59:52 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 05:59:52 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 05:59:55 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 05:59:55 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:41 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:04:44 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:05:01 --> 404 Page Not Found --> .env
+ERROR - 2022-03-11 06:05:26 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:06:43 --> 404 Page Not Found --> actuator
+ERROR - 2022-03-11 06:08:11 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 06:08:15 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:08:15 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:08:20 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:08:30 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-11 06:09:15 --> Severity: Notice  --> Undefined index: branch /usr/share/nginx/html/application/models/service_model.php 542
+ERROR - 2022-03-11 06:09:15 --> Severity: Notice  --> Undefined index: patient_id /usr/share/nginx/html/application/models/service_model.php 543
+ERROR - 2022-03-11 06:09:15 --> Severity: Notice  --> Undefined index: photo /usr/share/nginx/html/application/models/service_model.php 549
+ERROR - 2022-03-11 06:09:28 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-11 06:10:08 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 06:12:26 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 06:12:30 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:12:30 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:12:34 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:17:46 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:17:46 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:18:29 --> 404 Page Not Found --> frontend_assets
+ERROR - 2022-03-11 06:18:30 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:18:30 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:18:33 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:20:12 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:21:36 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:21:36 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:27:15 --> 404 Page Not Found --> .env
+ERROR - 2022-03-11 06:27:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 117
+ERROR - 2022-03-11 06:27:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 117
+ERROR - 2022-03-11 06:27:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 117
+ERROR - 2022-03-11 06:27:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 368
+ERROR - 2022-03-11 06:27:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 368
+ERROR - 2022-03-11 06:27:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 368
+ERROR - 2022-03-11 06:27:24 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 06:27:41 --> 404 Page Not Found --> .env
+ERROR - 2022-03-11 06:29:44 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 117
+ERROR - 2022-03-11 06:29:44 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 117
+ERROR - 2022-03-11 06:29:44 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 117
+ERROR - 2022-03-11 06:29:44 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 117
+ERROR - 2022-03-11 06:29:44 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 117
+ERROR - 2022-03-11 06:29:44 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 117
+ERROR - 2022-03-11 06:29:44 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 368
+ERROR - 2022-03-11 06:29:44 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 368
+ERROR - 2022-03-11 06:29:44 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 368
+ERROR - 2022-03-11 06:29:44 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 368
+ERROR - 2022-03-11 06:29:44 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 368
+ERROR - 2022-03-11 06:29:44 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 368
+ERROR - 2022-03-11 06:29:49 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 117
+ERROR - 2022-03-11 06:29:49 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 117
+ERROR - 2022-03-11 06:29:49 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 117
+ERROR - 2022-03-11 06:29:49 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 117
+ERROR - 2022-03-11 06:29:49 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 117
+ERROR - 2022-03-11 06:29:49 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 117
+ERROR - 2022-03-11 06:29:49 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 368
+ERROR - 2022-03-11 06:29:49 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 368
+ERROR - 2022-03-11 06:29:49 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 368
+ERROR - 2022-03-11 06:29:49 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 368
+ERROR - 2022-03-11 06:29:49 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 368
+ERROR - 2022-03-11 06:29:49 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 368
+ERROR - 2022-03-11 06:31:41 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 06:31:42 --> Severity: Warning  --> include_once(analyticstracking.php): failed to open stream: No such file or directory /usr/share/nginx/html/application/views/pt_focused.php 39
+ERROR - 2022-03-11 06:31:42 --> Severity: Warning  --> include_once(): Failed opening 'analyticstracking.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') /usr/share/nginx/html/application/views/pt_focused.php 39
+ERROR - 2022-03-11 06:32:09 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:35:22 --> 404 Page Not Found --> .env
+ERROR - 2022-03-11 06:36:59 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 06:37:20 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 06:39:09 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 06:43:34 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 06:44:44 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:45:06 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 117
+ERROR - 2022-03-11 06:45:06 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 117
+ERROR - 2022-03-11 06:45:06 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 117
+ERROR - 2022-03-11 06:45:06 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 368
+ERROR - 2022-03-11 06:45:06 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 368
+ERROR - 2022-03-11 06:45:06 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 368
+ERROR - 2022-03-11 06:45:11 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 06:46:13 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 06:46:18 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:46:18 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:46:31 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:47:30 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:48:35 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 06:48:39 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:49:23 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 06:49:25 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 06:49:27 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:49:29 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:49:46 --> Severity: Warning  --> include_once(analyticstracking.php): failed to open stream: No such file or directory /usr/share/nginx/html/application/views/contact_us.php 54
+ERROR - 2022-03-11 06:49:46 --> Severity: Warning  --> include_once(): Failed opening 'analyticstracking.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') /usr/share/nginx/html/application/views/contact_us.php 54
+ERROR - 2022-03-11 06:50:18 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 06:50:22 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:50:23 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/models/patient_model.php 5439
+ERROR - 2022-03-11 06:50:39 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:51:08 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/models/patient_model.php 5439
+ERROR - 2022-03-11 06:51:26 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 06:51:26 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 06:51:33 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 06:51:37 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 06:51:37 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:52:10 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 06:52:17 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/models/patient_model.php 5439
+ERROR - 2022-03-11 06:52:23 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/models/patient_model.php 5439
+ERROR - 2022-03-11 06:52:28 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 06:52:42 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 06:52:42 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 06:52:58 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 06:52:58 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 06:55:11 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 06:55:18 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 06:55:22 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:55:36 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:51 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 06:56:57 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 07:00:22 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 117
+ERROR - 2022-03-11 07:00:22 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 117
+ERROR - 2022-03-11 07:00:22 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 117
+ERROR - 2022-03-11 07:00:22 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 368
+ERROR - 2022-03-11 07:00:22 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 368
+ERROR - 2022-03-11 07:00:22 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 368
+ERROR - 2022-03-11 07:00:34 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 07:05:56 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 07:07:06 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 07:07:06 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 07:07:47 --> Severity: Notice  --> Undefined index: branch /usr/share/nginx/html/application/models/service_model.php 542
+ERROR - 2022-03-11 07:07:47 --> Severity: Notice  --> Undefined index: patient_id /usr/share/nginx/html/application/models/service_model.php 543
+ERROR - 2022-03-11 07:07:47 --> Severity: Notice  --> Undefined index: photo /usr/share/nginx/html/application/models/service_model.php 549
+ERROR - 2022-03-11 07:07:47 --> Severity: Notice  --> Undefined index: branch /usr/share/nginx/html/application/models/service_model.php 542
+ERROR - 2022-03-11 07:07:47 --> Severity: Notice  --> Undefined index: patient_id /usr/share/nginx/html/application/models/service_model.php 543
+ERROR - 2022-03-11 07:07:47 --> Severity: Notice  --> Undefined index: photo /usr/share/nginx/html/application/models/service_model.php 549
+ERROR - 2022-03-11 07:07:48 --> Severity: Notice  --> Undefined index: mainbranch /usr/share/nginx/html/application/controllers/webservice.php 421
+ERROR - 2022-03-11 07:07:48 --> Severity: Notice  --> Undefined index: email /usr/share/nginx/html/application/controllers/webservice.php 422
+ERROR - 2022-03-11 07:07:50 --> Severity: Notice  --> Undefined index: mainbranch /usr/share/nginx/html/application/controllers/webservice.php 421
+ERROR - 2022-03-11 07:07:50 --> Severity: Notice  --> Undefined index: email /usr/share/nginx/html/application/controllers/webservice.php 422
+ERROR - 2022-03-11 07:07:51 --> Severity: Notice  --> Undefined index: branch /usr/share/nginx/html/application/models/service_model.php 542
+ERROR - 2022-03-11 07:07:51 --> Severity: Notice  --> Undefined index: patient_id /usr/share/nginx/html/application/models/service_model.php 543
+ERROR - 2022-03-11 07:07:51 --> Severity: Notice  --> Undefined index: photo /usr/share/nginx/html/application/models/service_model.php 549
+ERROR - 2022-03-11 07:08:52 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 07:10:22 --> 404 Page Not Found --> admin
+ERROR - 2022-03-11 07:11:12 --> 404 Page Not Found --> kkrp
+ERROR - 2022-03-11 07:12:28 --> 404 Page Not Found --> index
+ERROR - 2022-03-11 07:17:49 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 07:17:52 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 07:18:17 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 07:18:50 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 07:19:49 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 07:19:57 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 07:20:44 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 07:21:33 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 07:21:53 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 117
+ERROR - 2022-03-11 07:21:53 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 117
+ERROR - 2022-03-11 07:21:53 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 117
+ERROR - 2022-03-11 07:21:53 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 368
+ERROR - 2022-03-11 07:21:53 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 368
+ERROR - 2022-03-11 07:21:53 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/patient_summary.php 368
+ERROR - 2022-03-11 07:26:04 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 07:26:10 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 07:26:10 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 07:37:49 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 07:41:05 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 07:41:05 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 07:43:34 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 07:43:51 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 07:49:06 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 07:49:10 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 07:49:41 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 07:49:41 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 07:50:34 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 07:50:34 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 07:50:36 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 07:50:36 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 07:53:54 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 07:53:54 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 07:55:19 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 07:55:19 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 07:56:05 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 07:56:05 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 07:57:19 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 07:57:19 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 07:58:31 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 07:58:31 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 08:01:12 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 08:01:22 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:02:43 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 08:02:43 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:03:15 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:04 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 08:05:04 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:05:19 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 08:17:39 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 08:17:39 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 08:31:32 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 08:31:32 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 08:31:41 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 08:37:28 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 08:37:31 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 08:53:48 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 08:53:53 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 08:56:00 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 08:56:04 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 08:59:04 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 08:59:09 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 09:01:05 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 09:01:09 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 09:07:12 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 09:07:12 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 09:08:25 --> 404 Page Not Found --> asset_list
+ERROR - 2022-03-11 09:08:26 --> 404 Page Not Found --> asset_list
+ERROR - 2022-03-11 09:08:26 --> 404 Page Not Found --> asset_list
+ERROR - 2022-03-11 09:48:55 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 09:48:58 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 10:05:15 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 10:22:33 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 10:22:37 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 10:22:37 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 10:25:44 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 10:25:48 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 10:29:31 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_edit.php 279
+ERROR - 2022-03-11 10:29:36 --> Severity: Notice  --> Uninitialized string offset: 0 /usr/share/nginx/html/application/models/invoice_model.php 265
+ERROR - 2022-03-11 10:29:36 --> Severity: Notice  --> Uninitialized string offset: 1 /usr/share/nginx/html/application/models/invoice_model.php 265
+ERROR - 2022-03-11 10:31:14 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 10:31:41 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 10:31:51 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 10:31:51 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 10:42:55 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 10:42:59 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/controllers/plugin/dashboard.php 16
+ERROR - 2022-03-11 10:42:59 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 190
+ERROR - 2022-03-11 10:42:59 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 195
+ERROR - 2022-03-11 10:42:59 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 196
+ERROR - 2022-03-11 10:42:59 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 200
+ERROR - 2022-03-11 10:42:59 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 201
+ERROR - 2022-03-11 10:42:59 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 202
+ERROR - 2022-03-11 10:42:59 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 248
+ERROR - 2022-03-11 10:42:59 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 250
+ERROR - 2022-03-11 10:42:59 --> Severity: Notice  --> Undefined variable: staff_details /usr/share/nginx/html/application/views/plugin/appointment.php 269
+ERROR - 2022-03-11 10:42:59 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 798
+ERROR - 2022-03-11 10:42:59 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 798
+ERROR - 2022-03-11 10:42:59 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 801
+ERROR - 2022-03-11 10:42:59 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 802
+ERROR - 2022-03-11 10:42:59 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 803
+ERROR - 2022-03-11 10:42:59 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 804
+ERROR - 2022-03-11 10:46:55 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 10:47:08 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 10:50:47 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 10:51:02 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 10:51:16 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/models/patient_model.php 5439
+ERROR - 2022-03-11 10:51:42 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 10:52:22 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 10:52:23 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 10:56:37 --> Severity: Warning  --> Illegal string offset 'patient_id' /usr/share/nginx/html/application/controllers/client/patient.php 726
+ERROR - 2022-03-11 10:56:37 --> Severity: Warning  --> Illegal string offset 'cc_id' /usr/share/nginx/html/application/controllers/client/patient.php 727
+ERROR - 2022-03-11 10:57:59 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 10:57:59 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 10:58:45 --> Severity: Notice  --> Undefined index: diurnal_variations /usr/share/nginx/html/application/models/patient_model.php 1896
+ERROR - 2022-03-11 11:01:00 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 11:01:00 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 11:01:16 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 11:01:16 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 11:10:36 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 11:10:39 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 11:11:09 --> Severity: Notice  --> Undefined index: diurnal_variations /usr/share/nginx/html/application/models/patient_model.php 1896
+ERROR - 2022-03-11 11:13:29 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 11:16:28 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/models/patient_model.php 5439
+ERROR - 2022-03-11 11:21:03 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 11:31:10 --> Severity: Warning  --> file_get_contents(mpdfstyletables.css): failed to open stream: No such file or directory /usr/share/nginx/html/application/controllers/client/exercise.php 1088
+ERROR - 2022-03-11 11:31:10 --> Severity: Notice  --> Undefined index: BODY /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:10 --> Severity: Notice  --> Undefined index: BODY>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:10 --> Severity: Notice  --> Undefined offset: -1 /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1156
+ERROR - 2022-03-11 11:31:10 --> Severity: Notice  --> Undefined index: BODY /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:10 --> Severity: Notice  --> Undefined index: BODY>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:10 --> Severity: Notice  --> Undefined offset: -1 /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1156
+ERROR - 2022-03-11 11:31:10 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:10 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:10 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:10 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:10 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:10 --> Severity: Notice  --> Undefined index: CLASS>>CONTAINER-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 975
+ERROR - 2022-03-11 11:31:10 --> Severity: Notice  --> Undefined index: DIV>>CLASS>>CONTAINER-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1013
+ERROR - 2022-03-11 11:31:10 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:10 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:10 --> Severity: Notice  --> Undefined index: CLASS>>CONTAINER-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 975
+ERROR - 2022-03-11 11:31:10 --> Severity: Notice  --> Undefined index: DIV>>CLASS>>CONTAINER-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1013
+ERROR - 2022-03-11 11:31:10 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:10 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:10 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:10 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:10 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:10 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:10 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:10 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:10 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined offset: 0 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined offset: 2 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: CLASS>>ROW-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 975
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: DIV>>CLASS>>ROW-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1013
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: CLASS>>ROW-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 975
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: DIV>>CLASS>>ROW-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1013
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined offset: 0 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined offset: 2 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined offset: 3 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: z-index /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 2466
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: z-index /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 2466
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: z-index /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 2466
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: css_set_height /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5342
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: css_set_height /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5342
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined property: mPDF::$hasOC /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 27550
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined property: mPDF::$hasOC /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 27653
+ERROR - 2022-03-11 11:31:12 --> Severity: Notice  --> Undefined property: mPDF::$hasOC /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 9177
+ERROR - 2022-03-11 11:31:12 --> Severity: Warning  --> opendir(/usr/share/nginx/html/system/libraries/mpdf53/tmp): failed to open dir: No such file or directory /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 7518
+ERROR - 2022-03-11 11:31:13 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 11:32:42 --> Severity: Warning  --> file_get_contents(mpdfstyletables.css): failed to open stream: No such file or directory /usr/share/nginx/html/application/controllers/client/exercise.php 1102
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Undefined index: BODY /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Undefined index: BODY>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Undefined offset: -1 /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1156
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Undefined index: BODY /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Undefined index: BODY>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Undefined offset: -1 /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1156
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Undefined index: CLASS>>CONTAINER-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 975
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Undefined index: DIV>>CLASS>>CONTAINER-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1013
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Undefined index: CLASS>>CONTAINER-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 975
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Undefined index: DIV>>CLASS>>CONTAINER-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1013
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:42 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined offset: 0 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined offset: 2 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: CLASS>>ROW-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 975
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: DIV>>CLASS>>ROW-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1013
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: CLASS>>ROW-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 975
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: DIV>>CLASS>>ROW-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1013
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined offset: -1 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 15515
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined offset: -1 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 15515
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined offset: -1 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 15515
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined offset: -1 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 15515
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined offset: -1 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 15515
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined offset: -1 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 15515
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:43 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined offset: 0 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined offset: 2 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined offset: 3 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: z-index /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 2466
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: z-index /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 2466
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: z-index /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 2466
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: z-index /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 2466
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: z-index /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 2466
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: z-index /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 2466
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: css_set_height /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5342
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: css_set_height /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5342
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined property: mPDF::$hasOC /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 27550
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined property: mPDF::$hasOC /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 27653
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Undefined property: mPDF::$hasOC /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 9177
+ERROR - 2022-03-11 11:32:44 --> Severity: Warning  --> opendir(/usr/share/nginx/html/system/libraries/mpdf53/tmp): failed to open dir: No such file or directory /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 7518
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 11:32:44 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 11:49:18 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 11:49:20 --> 404 Page Not Found --> sitemap.xml
+ERROR - 2022-03-11 11:49:23 --> 404 Page Not Found --> .well-known
+ERROR - 2022-03-11 11:51:59 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 11:55:01 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-11 11:56:19 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 11:58:22 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 11:59:05 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 12:01:51 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/models/patient_model.php 5439
+ERROR - 2022-03-11 12:05:05 --> 404 Page Not Found --> schedule/getcancelappointments
+ERROR - 2022-03-11 12:05:05 --> 404 Page Not Found --> schedule/getcancelappointments
+ERROR - 2022-03-11 12:07:24 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/controllers/plugin/dashboard.php 16
+ERROR - 2022-03-11 12:07:24 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 190
+ERROR - 2022-03-11 12:07:24 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 195
+ERROR - 2022-03-11 12:07:24 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 196
+ERROR - 2022-03-11 12:07:24 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 200
+ERROR - 2022-03-11 12:07:24 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 201
+ERROR - 2022-03-11 12:07:24 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 202
+ERROR - 2022-03-11 12:07:24 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 248
+ERROR - 2022-03-11 12:07:24 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 250
+ERROR - 2022-03-11 12:07:24 --> Severity: Notice  --> Undefined variable: staff_details /usr/share/nginx/html/application/views/plugin/appointment.php 269
+ERROR - 2022-03-11 12:07:24 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 798
+ERROR - 2022-03-11 12:07:24 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 798
+ERROR - 2022-03-11 12:07:24 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 801
+ERROR - 2022-03-11 12:07:24 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 802
+ERROR - 2022-03-11 12:07:24 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 803
+ERROR - 2022-03-11 12:07:24 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 804
+ERROR - 2022-03-11 12:08:05 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 12:08:27 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 12:08:43 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 12:09:48 --> Severity: Warning  --> file_get_contents(mpdfstyletables.css): failed to open stream: No such file or directory /usr/share/nginx/html/application/controllers/client/exercise.php 1088
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: BODY /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: BODY>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined offset: -1 /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1156
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: BODY /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: BODY>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined offset: -1 /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1156
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: CLASS>>CONTAINER-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 975
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: DIV>>CLASS>>CONTAINER-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1013
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: CLASS>>CONTAINER-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 975
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: DIV>>CLASS>>CONTAINER-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1013
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined offset: 0 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined offset: 2 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: CLASS>>ROW-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 975
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: DIV>>CLASS>>ROW-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1013
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: CLASS>>ROW-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 975
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: DIV>>CLASS>>ROW-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1013
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:48 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:49 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined offset: 0 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined offset: 2 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined offset: 3 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: z-index /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 2466
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: z-index /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 2466
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: z-index /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 2466
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: css_set_height /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5342
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: css_set_height /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5342
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined property: mPDF::$hasOC /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 27550
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined property: mPDF::$hasOC /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 27653
+ERROR - 2022-03-11 12:09:50 --> Severity: Notice  --> Undefined property: mPDF::$hasOC /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 9177
+ERROR - 2022-03-11 12:09:50 --> Severity: Warning  --> opendir(/usr/share/nginx/html/system/libraries/mpdf53/tmp): failed to open dir: No such file or directory /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 7518
+ERROR - 2022-03-11 12:09:51 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-11 12:14:47 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_edit.php 279
+ERROR - 2022-03-11 12:14:52 --> Severity: Notice  --> Uninitialized string offset: 0 /usr/share/nginx/html/application/models/invoice_model.php 265
+ERROR - 2022-03-11 12:17:47 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 12:18:31 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 12:18:34 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 12:22:02 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 12:22:05 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 12:26:52 --> Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Private_exercise' does not have a method 'private_lumbarthoracic' /usr/share/nginx/html/application/controllers/client/private_exercise.php 52
+ERROR - 2022-03-11 12:29:24 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 12:31:12 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 12:31:15 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:07 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:12 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:21 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:33:56 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 12:33:56 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 12:38:18 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/controllers/plugin/dashboard.php 16
+ERROR - 2022-03-11 12:38:18 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 190
+ERROR - 2022-03-11 12:38:18 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 195
+ERROR - 2022-03-11 12:38:18 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 196
+ERROR - 2022-03-11 12:38:18 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 200
+ERROR - 2022-03-11 12:38:18 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 201
+ERROR - 2022-03-11 12:38:18 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 202
+ERROR - 2022-03-11 12:38:18 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 248
+ERROR - 2022-03-11 12:38:18 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 250
+ERROR - 2022-03-11 12:38:18 --> Severity: Notice  --> Undefined variable: staff_details /usr/share/nginx/html/application/views/plugin/appointment.php 269
+ERROR - 2022-03-11 12:38:18 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 798
+ERROR - 2022-03-11 12:38:18 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 798
+ERROR - 2022-03-11 12:38:18 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 801
+ERROR - 2022-03-11 12:38:18 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 802
+ERROR - 2022-03-11 12:38:18 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 803
+ERROR - 2022-03-11 12:38:18 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 804
+ERROR - 2022-03-11 12:38:41 --> Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Private_exercise' does not have a method 'private_lumbarthoracic' /usr/share/nginx/html/application/controllers/client/private_exercise.php 52
+ERROR - 2022-03-11 12:39:04 --> Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Private_exercise' does not have a method 'private_lumbarthoracic' /usr/share/nginx/html/application/controllers/client/private_exercise.php 52
+ERROR - 2022-03-11 12:40:59 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 12:41:55 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 12:44:46 --> Severity: Warning  --> file_get_contents(mpdfstyletables.css): failed to open stream: No such file or directory /usr/share/nginx/html/application/controllers/client/exercise.php 1088
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: BODY /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: BODY>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined offset: -1 /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1156
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: BODY /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: BODY>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined offset: -1 /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1156
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: CLASS>>CONTAINER-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 975
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: DIV>>CLASS>>CONTAINER-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1013
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: CLASS>>CONTAINER-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 975
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: DIV>>CLASS>>CONTAINER-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1013
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined offset: 0 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined offset: 2 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: CLASS>>ROW-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 975
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: DIV>>CLASS>>ROW-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1013
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: CLASS>>ROW-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 975
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: DIV>>CLASS>>ROW-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1013
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:46 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined offset: 0 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined offset: 2 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined offset: 3 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: z-index /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 2466
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: z-index /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 2466
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: z-index /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 2466
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: css_set_height /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5342
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: css_set_height /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5342
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined property: mPDF::$hasOC /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 27550
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined property: mPDF::$hasOC /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 27653
+ERROR - 2022-03-11 12:44:47 --> Severity: Notice  --> Undefined property: mPDF::$hasOC /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 9177
+ERROR - 2022-03-11 12:44:47 --> Severity: Warning  --> opendir(/usr/share/nginx/html/system/libraries/mpdf53/tmp): failed to open dir: No such file or directory /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 7518
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:47:08 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 12:48:46 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 12:49:06 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 12:49:40 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 12:49:40 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 12:49:49 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 12:53:11 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 12:55:33 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 12:55:33 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 12:58:44 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 12:59:13 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 12:59:13 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 13:00:54 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/models/patient_model.php 5439
+ERROR - 2022-03-11 13:01:36 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 13:01:40 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 13:06:00 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 13:08:22 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 13:08:58 --> 404 Page Not Found --> schedule/getcancelappointments
+ERROR - 2022-03-11 13:08:58 --> 404 Page Not Found --> schedule/getcancelappointments
+ERROR - 2022-03-11 13:09:08 --> 404 Page Not Found --> schedule/getcancelappointments
+ERROR - 2022-03-11 13:09:08 --> 404 Page Not Found --> schedule/getcancelappointments
+ERROR - 2022-03-11 13:11:18 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 13:15:28 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 13:15:32 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 13:15:34 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 13:15:34 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 13:19:30 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 13:19:44 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 13:23:40 --> Severity: Notice  --> Trying to get property of non-object /usr/share/nginx/html/application/views/client/report1.php 136
+ERROR - 2022-03-11 13:23:40 --> Severity: Notice  --> Trying to get property of non-object /usr/share/nginx/html/application/views/client/report1.php 136
+ERROR - 2022-03-11 13:25:25 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 13:25:25 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 13:27:56 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 13:27:56 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 13:29:40 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 13:29:40 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 13:32:32 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 13:37:34 --> 404 Page Not Found --> .env
+ERROR - 2022-03-11 13:38:19 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 13:38:32 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 13:38:36 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 13:38:50 --> 404 Page Not Found --> .env
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 13:47:11 --> Severity: Warning  --> file_get_contents(mpdfstyletables.css): failed to open stream: No such file or directory /usr/share/nginx/html/application/controllers/client/exercise.php 1102
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: BODY /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: BODY>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined offset: -1 /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1156
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: BODY /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: BODY>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined offset: -1 /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1156
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: CLASS>>CONTAINER-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 975
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: DIV>>CLASS>>CONTAINER-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1013
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: CLASS>>CONTAINER-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 975
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: DIV>>CLASS>>CONTAINER-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1013
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined offset: 0 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined offset: 2 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: CLASS>>ROW-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 975
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: DIV>>CLASS>>ROW-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1013
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: CLASS>>ROW-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 975
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: DIV>>CLASS>>ROW-FLUID /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1013
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: DIV /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: DIV>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined offset: -1 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 15515
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined offset: -1 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 15515
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined offset: -1 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 15515
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined offset: -1 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 15515
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined offset: -1 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 15515
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined offset: -1 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 15515
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:11 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:12 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TABLE /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TABLE>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TR /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TR>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 972
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: TD>>ID>> /usr/share/nginx/html/system/libraries/mpdf53/classes/cssmgr.php 1017
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: overflow /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 23686
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: headernrows /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 24377
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined variable: pre /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 12636
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined variable: post /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 12636
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined variable: prelength /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 12636
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22922
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22933
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 22942
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined offset: 0 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined offset: 2 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined offset: 3 /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 26617
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: z-index /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 2466
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: z-index /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 2466
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: z-index /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 2466
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: z-index /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 2466
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: z-index /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 2466
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: z-index /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 2466
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5890
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5904
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: hyphens /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5909
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: css_set_height /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5342
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: css_set_height /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 5342
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined index: outline-s /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 3893
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined property: mPDF::$hasOC /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 27550
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined property: mPDF::$hasOC /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 27653
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Undefined property: mPDF::$hasOC /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 9177
+ERROR - 2022-03-11 13:47:13 --> Severity: Warning  --> opendir(/usr/share/nginx/html/system/libraries/mpdf53/tmp): failed to open dir: No such file or directory /usr/share/nginx/html/system/libraries/mpdf53/mpdf.php 7518
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 13:47:13 --> Severity: Notice  --> Array to string conversion /usr/share/nginx/html/application/views/client/default_chart_pdf.php 63
+ERROR - 2022-03-11 13:47:33 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 13:47:55 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 13:50:28 --> 404 Page Not Found --> schedule/getcancelappointments
+ERROR - 2022-03-11 13:50:28 --> 404 Page Not Found --> schedule/getcancelappointments
+ERROR - 2022-03-11 13:58:24 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 13:58:55 --> 404 Page Not Found --> frontend_assets
+ERROR - 2022-03-11 14:00:19 --> Severity: Warning  --> include_once(analyticstracking.php): failed to open stream: No such file or directory /usr/share/nginx/html/application/views/frontend/registration_add1.php 35
+ERROR - 2022-03-11 14:00:19 --> Severity: Warning  --> include_once(): Failed opening 'analyticstracking.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') /usr/share/nginx/html/application/views/frontend/registration_add1.php 35
+ERROR - 2022-03-11 14:00:19 --> Severity: Notice  --> Undefined variable: var /usr/share/nginx/html/application/views/frontend/registration_add1.php 341
+ERROR - 2022-03-11 14:00:21 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-11 14:01:47 --> Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Private_exercise' does not have a method 'private_lumbarthoracic' /usr/share/nginx/html/application/controllers/client/private_exercise.php 52
+ERROR - 2022-03-11 14:02:46 --> Severity: Warning  --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Private_exercise' does not have a method 'private_lumbarthoracic' /usr/share/nginx/html/application/controllers/client/private_exercise.php 52
+ERROR - 2022-03-11 14:05:04 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 14:05:38 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 14:06:02 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 14:06:02 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 14:06:13 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 14:07:21 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 14:07:22 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 14:07:24 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 14:07:26 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 14:08:12 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 14:08:45 --> Severity: Warning  --> include_once(analyticstracking.php): failed to open stream: No such file or directory /usr/share/nginx/html/application/views/contact_us.php 54
+ERROR - 2022-03-11 14:08:45 --> Severity: Warning  --> include_once(): Failed opening 'analyticstracking.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') /usr/share/nginx/html/application/views/contact_us.php 54
+ERROR - 2022-03-11 14:11:04 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 14:11:06 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 14:11:37 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 14:12:04 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 14:12:59 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 14:13:49 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 14:14:48 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 14:16:38 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 14:16:41 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 14:22:55 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 14:41:22 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 14:42:20 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 14:42:23 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 14:47:23 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 14:48:28 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 14:50:58 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 14:50:58 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 14:51:28 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 14:51:28 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 14:52:11 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 14:52:11 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 14:52:39 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 14:52:39 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 15:00:03 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 15:00:03 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 15:00:16 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/models/patient_model.php 5439
+ERROR - 2022-03-11 15:00:23 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 15:00:23 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 15:00:33 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/models/patient_model.php 5439
+ERROR - 2022-03-11 15:00:38 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 15:01:11 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 15:06:30 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 15:06:54 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/models/patient_model.php 5439
+ERROR - 2022-03-11 15:06:59 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/models/patient_model.php 5439
+ERROR - 2022-03-11 15:07:06 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 15:07:06 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 15:09:05 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 15:12:44 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-11 15:12:54 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 15:14:00 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/models/patient_model.php 5439
+ERROR - 2022-03-11 15:14:07 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/models/patient_model.php 5439
+ERROR - 2022-03-11 15:14:19 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/models/patient_model.php 5439
+ERROR - 2022-03-11 15:14:29 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/models/patient_model.php 5439
+ERROR - 2022-03-11 15:14:43 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 15:14:43 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 15:14:52 --> 404 Page Not Found --> assets
+ERROR - 2022-03-11 15:15:49 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 15:15:49 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 15:16:31 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 15:16:31 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 15:17:07 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 15:17:19 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 15:17:23 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/models/patient_model.php 5439
+ERROR - 2022-03-11 15:17:42 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/controllers/plugin/dashboard.php 16
+ERROR - 2022-03-11 15:17:42 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 190
+ERROR - 2022-03-11 15:17:42 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 195
+ERROR - 2022-03-11 15:17:42 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 196
+ERROR - 2022-03-11 15:17:42 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 200
+ERROR - 2022-03-11 15:17:42 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 201
+ERROR - 2022-03-11 15:17:42 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 202
+ERROR - 2022-03-11 15:17:42 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 248
+ERROR - 2022-03-11 15:17:42 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 250
+ERROR - 2022-03-11 15:17:42 --> Severity: Notice  --> Undefined variable: staff_details /usr/share/nginx/html/application/views/plugin/appointment.php 269
+ERROR - 2022-03-11 15:17:42 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 798
+ERROR - 2022-03-11 15:17:42 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 798
+ERROR - 2022-03-11 15:17:42 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 801
+ERROR - 2022-03-11 15:17:42 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 802
+ERROR - 2022-03-11 15:17:42 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 803
+ERROR - 2022-03-11 15:17:42 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 804
+ERROR - 2022-03-11 15:23:03 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 15:23:03 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 15:24:04 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 15:25:03 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 15:25:03 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 15:33:12 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 15:34:07 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 15:34:11 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 15:43:42 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 15:43:42 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 15:44:41 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 15:44:41 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 15:46:54 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 15:46:54 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 15:52:00 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 15:52:00 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 15:52:34 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 15:52:38 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 15:52:46 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 15:53:02 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 15:53:04 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 15:53:14 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 15:53:16 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 15:53:37 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 15:53:40 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 15:54:30 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 15:54:32 --> 404 Page Not Found --> img
+ERROR - 2022-03-11 15:56:57 --> 404 Page Not Found --> favicon.ico
+ERROR - 2022-03-11 16:12:34 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 16:12:36 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 16:14:12 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 353
+ERROR - 2022-03-11 16:14:12 --> Severity: Warning  --> Invalid argument supplied for foreach() /usr/share/nginx/html/application/views/client/invoice_add.php 356
+ERROR - 2022-03-11 16:14:56 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 16:14:56 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 16:14:56 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 16:14:56 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 16:14:56 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 16:14:56 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 16:15:16 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 16:15:16 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 16:15:16 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 16:15:16 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 16:15:16 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 16:15:16 --> Severity: Notice  --> Undefined variable: keyword /usr/share/nginx/html/application/views/client/income_statement_view.php 95
+ERROR - 2022-03-11 16:38:56 --> Severity: Warning  --> opendir(uploads/mail/): failed to open dir: No such file or directory /usr/share/nginx/html/system/helpers/directory_helper.php 46
+ERROR - 2022-03-11 16:38:59 --> 404 Page Not Found --> uploads
+ERROR - 2022-03-11 18:15:22 --> Severity: Warning  --> include_once(analyticstracking.php): failed to open stream: No such file or directory /usr/share/nginx/html/application/views/contact_us.php 54
+ERROR - 2022-03-11 18:15:22 --> Severity: Warning  --> include_once(): Failed opening 'analyticstracking.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') /usr/share/nginx/html/application/views/contact_us.php 54
+ERROR - 2022-03-11 18:32:57 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/controllers/plugin/dashboard.php 16
+ERROR - 2022-03-11 18:32:57 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 190
+ERROR - 2022-03-11 18:32:57 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 195
+ERROR - 2022-03-11 18:32:57 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 196
+ERROR - 2022-03-11 18:32:57 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 200
+ERROR - 2022-03-11 18:32:57 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 201
+ERROR - 2022-03-11 18:32:57 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 202
+ERROR - 2022-03-11 18:32:57 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 248
+ERROR - 2022-03-11 18:32:57 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 250
+ERROR - 2022-03-11 18:32:57 --> Severity: Notice  --> Undefined variable: staff_details /usr/share/nginx/html/application/views/plugin/appointment.php 269
+ERROR - 2022-03-11 18:32:57 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 798
+ERROR - 2022-03-11 18:32:57 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 798
+ERROR - 2022-03-11 18:32:57 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 801
+ERROR - 2022-03-11 18:32:57 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 802
+ERROR - 2022-03-11 18:32:57 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 803
+ERROR - 2022-03-11 18:32:57 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 804
+ERROR - 2022-03-11 19:01:43 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/controllers/plugin/dashboard.php 16
+ERROR - 2022-03-11 19:01:43 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 190
+ERROR - 2022-03-11 19:01:43 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 195
+ERROR - 2022-03-11 19:01:43 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 196
+ERROR - 2022-03-11 19:01:43 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 200
+ERROR - 2022-03-11 19:01:43 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 201
+ERROR - 2022-03-11 19:01:43 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 202
+ERROR - 2022-03-11 19:01:43 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 248
+ERROR - 2022-03-11 19:01:43 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 250
+ERROR - 2022-03-11 19:01:43 --> Severity: Notice  --> Undefined variable: staff_details /usr/share/nginx/html/application/views/plugin/appointment.php 269
+ERROR - 2022-03-11 19:01:43 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 798
+ERROR - 2022-03-11 19:01:43 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 798
+ERROR - 2022-03-11 19:01:43 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 801
+ERROR - 2022-03-11 19:01:43 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 802
+ERROR - 2022-03-11 19:01:43 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 803
+ERROR - 2022-03-11 19:01:43 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 804
+ERROR - 2022-03-11 19:26:01 --> 404 Page Not Found --> .env
+ERROR - 2022-03-11 19:26:03 --> 404 Page Not Found --> env.bak
+ERROR - 2022-03-11 19:26:05 --> 404 Page Not Found --> laravel
+ERROR - 2022-03-11 19:26:06 --> 404 Page Not Found --> storage
+ERROR - 2022-03-11 19:26:08 --> 404 Page Not Found --> admin
+ERROR - 2022-03-11 19:26:10 --> 404 Page Not Found --> application
+ERROR - 2022-03-11 19:26:12 --> 404 Page Not Found --> src
+ERROR - 2022-03-11 19:26:14 --> 404 Page Not Found --> local
+ERROR - 2022-03-11 19:26:16 --> 404 Page Not Found --> public
+ERROR - 2022-03-11 19:26:18 --> 404 Page Not Found --> app
+ERROR - 2022-03-11 19:26:19 --> 404 Page Not Found --> backend
+ERROR - 2022-03-11 19:26:21 --> 404 Page Not Found --> old
+ERROR - 2022-03-11 19:26:22 --> 404 Page Not Found --> core
+ERROR - 2022-03-11 19:26:24 --> 404 Page Not Found --> apps
+ERROR - 2022-03-11 19:26:26 --> 404 Page Not Found --> protected
+ERROR - 2022-03-11 19:26:28 --> 404 Page Not Found --> blog
+ERROR - 2022-03-11 19:26:30 --> 404 Page Not Found --> www
+ERROR - 2022-03-11 19:26:32 --> 404 Page Not Found --> api
+ERROR - 2022-03-11 19:26:35 --> 404 Page Not Found --> crm
+ERROR - 2022-03-11 19:52:11 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 19:54:22 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 19:54:45 --> 404 Page Not Found --> frontend_assets
+ERROR - 2022-03-11 19:58:44 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 20:22:55 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 20:32:15 --> 404 Page Not Found --> .env
+ERROR - 2022-03-11 21:09:13 --> 404 Page Not Found --> wordpress
+ERROR - 2022-03-11 21:09:17 --> 404 Page Not Found --> wp
+ERROR - 2022-03-11 21:09:18 --> 404 Page Not Found --> bc
+ERROR - 2022-03-11 21:09:20 --> 404 Page Not Found --> bk
+ERROR - 2022-03-11 21:09:21 --> 404 Page Not Found --> backup
+ERROR - 2022-03-11 21:09:22 --> 404 Page Not Found --> old
+ERROR - 2022-03-11 21:09:23 --> 404 Page Not Found --> new
+ERROR - 2022-03-11 21:09:23 --> 404 Page Not Found --> main
+ERROR - 2022-03-11 21:15:08 --> 404 Page Not Found --> owa
+ERROR - 2022-03-11 21:15:26 --> 404 Page Not Found --> owa
+ERROR - 2022-03-11 21:52:24 --> Severity: Warning  --> include_once(analyticstracking.php): failed to open stream: No such file or directory /usr/share/nginx/html/application/views/upgrade_pricing.php 45
+ERROR - 2022-03-11 21:52:24 --> Severity: Warning  --> include_once(): Failed opening 'analyticstracking.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') /usr/share/nginx/html/application/views/upgrade_pricing.php 45
+ERROR - 2022-03-11 22:24:24 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 22:30:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 190
+ERROR - 2022-03-11 22:30:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 195
+ERROR - 2022-03-11 22:30:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 196
+ERROR - 2022-03-11 22:30:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 200
+ERROR - 2022-03-11 22:30:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 201
+ERROR - 2022-03-11 22:30:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 202
+ERROR - 2022-03-11 22:30:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 248
+ERROR - 2022-03-11 22:30:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 250
+ERROR - 2022-03-11 22:30:52 --> Severity: Notice  --> Undefined variable: staff_details /usr/share/nginx/html/application/views/plugin/appointment.php 269
+ERROR - 2022-03-11 22:30:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 798
+ERROR - 2022-03-11 22:30:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 798
+ERROR - 2022-03-11 22:30:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 801
+ERROR - 2022-03-11 22:30:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 802
+ERROR - 2022-03-11 22:30:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 803
+ERROR - 2022-03-11 22:30:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 804
+ERROR - 2022-03-11 22:46:19 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/controllers/plugin/dashboard.php 16
+ERROR - 2022-03-11 22:46:19 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 190
+ERROR - 2022-03-11 22:46:19 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 195
+ERROR - 2022-03-11 22:46:19 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 196
+ERROR - 2022-03-11 22:46:19 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 200
+ERROR - 2022-03-11 22:46:19 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 201
+ERROR - 2022-03-11 22:46:19 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 202
+ERROR - 2022-03-11 22:46:19 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 248
+ERROR - 2022-03-11 22:46:19 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 250
+ERROR - 2022-03-11 22:46:19 --> Severity: Notice  --> Undefined variable: staff_details /usr/share/nginx/html/application/views/plugin/appointment.php 269
+ERROR - 2022-03-11 22:46:19 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 798
+ERROR - 2022-03-11 22:46:19 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 798
+ERROR - 2022-03-11 22:46:19 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 801
+ERROR - 2022-03-11 22:46:19 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 802
+ERROR - 2022-03-11 22:46:19 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 803
+ERROR - 2022-03-11 22:46:19 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 804
+ERROR - 2022-03-11 23:01:19 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 23:19:52 --> Severity: Notice  --> Undefined offset: 1 /usr/share/nginx/html/application/controllers/plugin/dashboard.php 16
+ERROR - 2022-03-11 23:19:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 190
+ERROR - 2022-03-11 23:19:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 195
+ERROR - 2022-03-11 23:19:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 196
+ERROR - 2022-03-11 23:19:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 200
+ERROR - 2022-03-11 23:19:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 201
+ERROR - 2022-03-11 23:19:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 202
+ERROR - 2022-03-11 23:19:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 248
+ERROR - 2022-03-11 23:19:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 250
+ERROR - 2022-03-11 23:19:52 --> Severity: Notice  --> Undefined variable: staff_details /usr/share/nginx/html/application/views/plugin/appointment.php 269
+ERROR - 2022-03-11 23:19:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 798
+ERROR - 2022-03-11 23:19:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 798
+ERROR - 2022-03-11 23:19:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 801
+ERROR - 2022-03-11 23:19:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 802
+ERROR - 2022-03-11 23:19:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 803
+ERROR - 2022-03-11 23:19:52 --> Severity: Notice  --> Undefined variable: client_details /usr/share/nginx/html/application/views/plugin/appointment.php 804
+ERROR - 2022-03-11 23:30:57 --> 404 Page Not Found --> robots.txt
+ERROR - 2022-03-11 23:30:58 --> 404 Page Not Found --> robots.txt
