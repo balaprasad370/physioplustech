@@ -2,8 +2,8 @@
 $config = array(
 		  'protocol' => 'smtp',
 		  'smtp_host' => 'smtp-relay.sendinblue.com',  
-		  'smtp_user' => 'info@physioplusnetwork.com',
-		  'smtp_pass' => '2JAH1t86jVvZMWc9',
+		  'smtp_user' => 'support@physioplusnetwork.com',
+		  'smtp_pass' => 'nszrO2PDAmBYfZ1V',
 		  'smtp_port' => 587,
 		  'crlf' => "\r\n",
 		  'newline' => "\r\n"
